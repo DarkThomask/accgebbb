@@ -1,9 +1,9 @@
-key='e36bb985-e2f1-43fd-b85e-e4569be5d05b'
-app_name="accgen123"
+key='6c27a8ce-af1c-45fd-a5f7-7b9675dddcec'
+app_name="accgen333"
 deviceid="17A7F633BD2668F5C58AC8FF2E0DDB52FE738274220CF20A44FBD5C421B24F47D483B642ED67AE381E"
-emaill="e8bf0gjt9@xojxe.com"
-passwordd="tempmail"
+emaill="i5evqcz@1secmail.org"
+passwordd="Thomas777"
 custompwd="fakeaccpwd"
 url="https://ElatedSlipperyArchive.crimsondead.repl.co"
 chatlink="http://aminoapps.com/p/x8nptuj"
-nickname="itsme"
+nickname="Yumegi777"

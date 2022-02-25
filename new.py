@@ -4,6 +4,6 @@ deviceid="32A686060F232937AA2333E8BDBF20A18A2AE5B6289AFD5A91E5F73B99BB342810F36B
 emaill="i5evqcz@1secmail.org"
 passwordd="#PROUDCATOWNER"
 custompwd="Thomas777"
-url="https://ElatedSlipperyArchive.crimsondead.repl.co"
+url="https://tentar-cris.thomasaaa.repl.co"
 chatlink="http://aminoapps.com/p/ctzo1ap"
 nickname="Yumegi777"
